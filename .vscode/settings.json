@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.fontFamily": "Fira Code, 'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 17,
+    "editor.fontLigatures": true
+}
