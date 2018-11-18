@@ -28,3 +28,21 @@ See http://openjdk.java.net/ for more information about OpenJDK.
 ## If you see no errors, well done!
 
     Happy hack ! :)
+
+## Screenshots
+
+* java.c
+
+  ![alt text](screenshots/java.c_2294_line_Screenshot_from_2018-11-18_22-59-34.png?raw=true "java.c")
+
+
+
+* os_linux.cpp
+  ![alt text](screenshots/os_linux_cpp_line_726_Screenshot_from_2018-11-18_23-00-44.png?raw=true "os_linux.cpp")
+
+
+
+* over
+  ![alt text](screenshots/Hello_world_over_Screenshot_from_2018-11-18_23-01-46.png?raw=true "over")
+
+
